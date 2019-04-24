@@ -1,7 +1,6 @@
 # Site settings
 encoding: UTF-8
-theme: thinkspace 
-title_left    : "frbn"
+title_left    : "frbn's"
 title_right   : " space" # default: ""
 description   : "gnu/linux / postgresql blog."
 keywords      : "blog, postgresql, linux, frbn"
@@ -46,4 +45,4 @@ navbar:
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script"]
 
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
