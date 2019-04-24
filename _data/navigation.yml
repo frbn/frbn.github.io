@@ -5,4 +5,4 @@
 - name: RSS
   link: /feed.xml
 - name: Blog
-  link: /blog.html
+  link: /blog/
