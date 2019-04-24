@@ -1,6 +1,6 @@
 # Site settings
 encoding: UTF-8
-# theme: jekyll-theme-primer
+theme: jekyll-theme-primer
 title_left    : "frbn"
 title_right   : " space" # default: ""
 description   : "gnu/linux / postgresql blog."
