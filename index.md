@@ -1,4 +1,4 @@
 ---
-title: Free OSS and Co
+title: About GNU/Linux & PostgreSQL
 layout: page
 ---
